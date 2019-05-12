@@ -2,9 +2,8 @@
 
 ## Functions
 
-* ParseEntityCategory(entityId)
-  * Returns a table of caegories
-  * Can retrieve the Id for a unit via `unit:GetUnitId()`
+* ParseEntityCategory()
+  * ??
 * EntityCategoryContains()
 * EntityCategoryCount()
 * EntityCategoryEmpty()
